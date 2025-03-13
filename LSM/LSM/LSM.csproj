@@ -10,6 +10,9 @@
   <ItemGroup>
     <Compile Remove="10250.cs" />
     <Compile Remove="1712.cs" />
+    <Compile Remove="18258.cs" />
+    <Compile Remove="1991.cs" />
+    <Compile Remove="2869.cs" />
   </ItemGroup>
 
 </Project>
